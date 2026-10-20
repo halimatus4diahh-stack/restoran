@@ -25,7 +25,7 @@ h1 {
         
         div.kartu-profil img {
           border-radius: 50%;
-          border: 3px solid #9DD8F8;
+          border: 3px solid #F9B2ED;
         }
         
         .navigasi {
@@ -41,7 +41,7 @@ h1 {
         
         .navigasi .aktif {
           font-weight: bold;
-          color: #A1D9F4;
+          color: #99BCFF;
         }
         
         div.kartu-kontak {
